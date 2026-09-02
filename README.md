@@ -12,4 +12,3 @@ Sample Final Project template for Synoflux Academy BIT students.
 
 This repository is the master template used to create individual private student repositories.
 
-<!-- Branch protection test -->
